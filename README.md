@@ -1,4 +1,4 @@
 bootstrapped and building.
-- active on [farcaster](https://warpcast.com/jtgi)
 - prev: staff @ twilio, dapps @ manifold.xyz
+- active on [farcaster](https://warpcast.com/jtgi)
 - hacks n musings: [jtgi.xyz](https://jtgi.xyz)
