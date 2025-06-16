@@ -1,5 +1,5 @@
 bootstrapped and building.
-- prev: staff @ [twilio](https://twilio.com)
+- prev: eng @ [twilio](https://twilio.com)
 - side hustles:
   - [automod.sh](https://automod.sh) - farcaster channel moderation
   - [divide.cash](https://divide.cash) - track expenses with friends
