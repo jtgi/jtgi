@@ -1,4 +1,4 @@
-bootstrapped and building.
+building @[elevenlabs](https://elevenlabs.io).
 - prev: eng @ [twilio](https://twilio.com)
 - side hustles:
   - [automod.sh](https://automod.sh) - farcaster channel moderation
